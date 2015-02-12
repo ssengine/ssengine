@@ -1,0 +1,12 @@
+[submodule "samples"]
+	path = samples
+	url = git@github.com:ssengine/samples.git
+[submodule "modules/core"]
+	path = modules/core
+	url = git@github.com:ssengine/core.git
+[submodule "launchers/win32-basic"]
+	path = launchers/win32-basic
+	url = git@github.com:ssengine/win32-basic-launcher.git
+[submodule "include"]
+	path = include
+	url = git@github.com:ssengine/include.git
