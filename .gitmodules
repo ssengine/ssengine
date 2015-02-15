@@ -10,3 +10,6 @@
 [submodule "include"]
 	path = include
 	url = git@github.com:ssengine/include.git
+[submodule "thirdparty/uri-parser"]
+	path = thirdparty/uri-parser
+	url = git@github.com:ssengine/uri-parser.git
