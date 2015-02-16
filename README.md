@@ -18,17 +18,11 @@ SSEngine的代码编写过程会经常性通过网络直播，国内用户请点
 
 ### 支付宝：###
 
-![支付宝](http://ssengine.org/alipay_qrcode.png)
+![支付宝](alipay_qrcode.png)
 
 ### Paypal ###
 
-<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="tdzl2003@gmail.com">
-<input type="hidden" name="item_name" value="Team In Training">
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-</form>
+[Paypal](http://ssengine.org/donate_temp.html)
 
 # 合作 #
 
