@@ -22,7 +22,7 @@ SSEngine的代码编写过程会经常性通过网络直播，国内用户请点
 
 ### Paypal ###
 
-[Paypal](http://ssengine.org/donate_temp.html)
+[Donate for SSEngine](http://ssengine.org/donate_temp.html)
 
 # 合作 #
 
