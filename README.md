@@ -20,10 +20,6 @@ SSEngine的代码编写过程会经常性通过网络直播，国内用户请点
 
 ![支付宝](alipay_qrcode.png)
 
-### Paypal ###
-
-[Donate for SSEngine](http://ssengine.org/donate_temp.html)
-
 # 合作 #
 
 希望和SSEngine或 代码直播【黑洞的日常】进行任何形式合作的，请联系：
