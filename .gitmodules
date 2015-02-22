@@ -4,6 +4,9 @@
 [submodule "modules/core"]
 	path = modules/core
 	url = git@github.com:ssengine/core.git
+[submodule "modules/glrenderer"]
+	path = modules/glrenderer
+	url = git@github.com:ssengine/glrenderer.git
 [submodule "launchers/win32-basic"]
 	path = launchers/win32-basic
 	url = git@github.com:ssengine/win32-basic-launcher.git
