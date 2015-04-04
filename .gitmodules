@@ -13,3 +13,6 @@
 [submodule "include"]
 	path = include
 	url = git@github.com:ssengine/include.git
+[submodule "modules/internal_resource"]
+	path = modules/internal_resource
+	url = git@github.com:ssengine/internal_resource.git
