@@ -40,7 +40,7 @@ ADD_SUBDIRECTORY(include)
 ADD_SUBDIRECTORY(modules/core)
 
 IF(WIN32)
-ADD_SUBDIRECTORY(modules/glrenderer)
+	ADD_SUBDIRECTORY(modules/glrenderer)
 ENDIF(WIN32)
 
 IF (WIN32)
